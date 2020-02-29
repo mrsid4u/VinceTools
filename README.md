@@ -1,4 +1,5 @@
 <head>
+    <head>
     <style>
         h1{
             color: coral;
